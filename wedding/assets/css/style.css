@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0;
+    }
+.head {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    text-align: center;
+    
+}
+.name{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 20px;
+    font-family: 'Cardo', serif;
+}
+.join{
+    
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Cardo', serif;
+}
+.date{
+    text-align: center;
+font-size: 25px;
+font-family: 'Cardo', serif;
+}
+.pleace{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 30px;
+    font-family: 'Cardo', serif;
+}
+.reception{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: 'Cardo', serif;
+}
+.main{
+    background-color: rgba(237, 238, 202, 0.842);
+    height: 550px;
+    width: 500px;
+    margin: auto;
+    padding-top: 70px;
+    
+}
